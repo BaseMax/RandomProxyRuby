@@ -1,8 +1,8 @@
 # RandomProxyRuby
 
 
-$ `gem install RandomProxy`
-$ `gem install json`
-$ `gem install httparty`
+- $ `gem install RandomProxy`
+- $ `gem install json`
+- $ `gem install httparty`
 
 
