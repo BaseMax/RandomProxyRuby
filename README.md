@@ -10,7 +10,6 @@ Validation Code](https://img.shields.io/badge/Validation%20Code-Check-green.svg)
 
   - Compact
   - Free API (2 requests per second)
-  - Definition Text,Image of Loading...
   - Based on `httparty` , `json`
   
 
