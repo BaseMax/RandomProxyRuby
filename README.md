@@ -13,6 +13,11 @@ Validation Code](https://img.shields.io/badge/Validation%20Code-Check-green.svg)
   - Based on `httparty` , `json`
   
 
+
+If the API address has changed , This repository will be updated.
+use the new version.
+
+
 ## Installation
 - $ `gem install RandomProxy`
 
